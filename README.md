@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Reinhardtvbm
 - 👀 I’m interested in everything computers
-- 🌱 I’m currently learning Flutter and Go
+- 🌱 I’m currently learning Rust and Embedded C
 
 <!---
 Reinhardtvbm/Reinhardtvbm is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
